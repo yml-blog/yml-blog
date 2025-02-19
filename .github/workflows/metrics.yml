@@ -2,7 +2,7 @@ name: Metrics and Snake Animation
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: "0 0 * * *"  # 每天午夜运行一次
   workflow_dispatch:
   push:
     branches:
@@ -46,7 +46,7 @@ jobs:
             librsvg2-dev
 
       - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: yml-blog
           outputs: |
