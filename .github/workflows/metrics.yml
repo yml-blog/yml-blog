@@ -34,26 +34,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install canvas dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            build-essential \
-            libcairo2-dev \
-            libpango1.0-dev \
-            libjpeg-dev \
-            libgif-dev \
-            librsvg2-dev
-
       - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: yml-blog
           outputs: |
             "dist/github-contribution-grid-snake.svg"
             "dist/github-contribution-grid-snake-dark.svg?palette=github-dark"
-            dist/github-contribution-grid-snake-rainbow.svg?palette=github-rainbow
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
