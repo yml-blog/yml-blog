@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Hello+World!;I%27m+a+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 
   <!-- 社交徽章 -->
-  <p>
-    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/followers/yml-blog?style=social" alt="GitHub followers"/></a>
-    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/stars/yml-blog?style=social" alt="GitHub stars"/></a>
+  <p align="center">
+    <a href="https://github.com/yml-blog?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/yml-blog?style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/yml-blog?tab=repositories&sort=stargazers">
+      <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yml-blog?style=for-the-badge&logo=github">
+    </a>
     <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/yangming-l-9a964791/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
