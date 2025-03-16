@@ -92,17 +92,12 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
   </a>
 </p>
 
-<!-- 动态访客计数（带偏移量） -->
+<!-- 简洁的访客计数 -->
 <div align="center">
   <h1 style="font-size: 36px; color: #4CAF50;">👁️ VISITOR COUNTS 👁️</h1>
   
-  <p style="font-size: 24px;">You are visitor number:</p>
-  <!-- 使用两个图片：一个固定的1987和一个动态计数器 -->
-  <div style="display: inline-block; vertical-align: middle; font-size: 60px; font-weight: bold; color: #4CAF50;">1987</div>
-  <div style="display: inline-block; vertical-align: middle;">+</div>
-  <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://profile-counter.glitch.me/yml-blog-counter/count.svg" alt="Additional Visitors" style="height: 60px;"/>
-  </div>
+  <!-- 使用单一的访客计数服务 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yml-blog.special-counter&style=for-the-badge&color=4CAF50" style="height: 50px;" alt="Visitor Count"/>
 </div>
 
 <!-- GitHub Snake Animation -->
