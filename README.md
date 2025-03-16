@@ -92,10 +92,12 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
   </a>
 </p>
 
-<!-- 访客计数器 - 自定义显示 -->
-<p align="center">
-  <img src="https://count.getloli.com/get/@:yml-blog?theme=moebooru&count=1987" style="height: 50px;" alt="Visitor Count"/>
-</p>
+<!-- 更大、更醒目的访客计数标题和计数器 -->
+<div align="center">
+  <h1 style="font-size: 36px; color: #4CAF50;">👁️ VISITOR COUNTS 👁️</h1>
+  <p style="font-size: 24px;">Thanks for being one of our <b style="color: #4CAF50; font-size: 28px;">1987+</b> visitors!</p>
+  <img src="https://count.getloli.com/get/@:yml-blog?theme=moebooru&count=1987" style="height: 60px;" alt="Visitor Count"/>
+</div>
 
 <!-- GitHub Snake Animation -->
 <div align="center">
