@@ -92,9 +92,10 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800" alt="GitHub Streak" /></a>
 
-<!-- 保留访客计数 -->
-<h3>👀 Visitor Count</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yml-blog.yml-blog" alt="visitors"/>
+<!-- 访客计数器 - 恢复原始代码 -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yml-blog.yml-blog" alt="visitors"/>
+</p>
 
 <!-- GitHub Snake Animation -->
 <div align="center">
