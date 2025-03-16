@@ -17,9 +17,6 @@
     <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 
-  <!-- 新增：动态天气 -->
-  <img src="https://weather-icon.journeyad.repl.co/@beijing?v=1" align="center">
-</div>
 
 <br/>
 
@@ -92,9 +89,11 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800" alt="GitHub Streak" /></a>
 
-<!-- 访客计数器 - 恢复原始代码 -->
+<!-- 访客计数器 - 从987开始并增大字体 -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yml-blog.yml-blog" alt="visitors"/>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyml-blog%2Fyml-blog&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false&initial_count=987" style="height: 30px; font-size: 18px;" alt="Visitor Count"/>
+  </a>
 </p>
 
 <!-- GitHub Snake Animation -->
