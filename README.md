@@ -91,7 +91,7 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 
 <!-- 访客计数器 - 自定义显示 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-1987+-brightgreen?style=for-the-badge&logo=github" style="height: 40px;" alt="1987+ Visitors"/>
+  <img src="https://count.getloli.com/get/@:yml-blog?theme=moebooru&count=1987" style="height: 50px;" alt="Visitor Count"/>
 </p>
 
 <!-- GitHub Snake Animation -->
