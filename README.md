@@ -31,9 +31,9 @@
       </a>
     </td>
     <td align="center">
-      <!-- 显示真实的总贡献数 -->
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&hide=c&langs_count=7&theme=dark&hide_progress=true" align="center">
+      <!-- 使用更稳定的参数组合 -->
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=dark&count_private=true" align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=dark&langs_count=6" align="center">
     </td>
   </tr>
 </table>
