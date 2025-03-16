@@ -82,14 +82,14 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 - [**DevOps Pipeline**](https://github.com/yml-blog/project4) - Automated CI/CD pipeline
 - [**Code Generator**](https://github.com/yml-blog/project5) - AI-powered code generation
 
-<!-- 活动图表 -->
+<!-- 活动图表 - 使用更准确的参数 -->
 <p></p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yml-blog&custom_title=YML's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yml-blog&custom_title=YML's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true">
 
-<!-- 自定义 GitHub 贡献统计 -->
+<!-- GitHub 贡献统计 - 使用更准确的参数 -->
 <p></p>
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800&locale=en&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
 
 <!-- 简洁的动态访客计数 - 使用正确的用户名参数 -->
