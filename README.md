@@ -92,12 +92,17 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
   </a>
 </p>
 
-<!-- 更大、更醒目的访客计数标题和计数器 -->
+<!-- 动态访客计数（带偏移量） -->
 <div align="center">
   <h1 style="font-size: 36px; color: #4CAF50;">👁️ VISITOR COUNTS 👁️</h1>
-  <p style="font-size: 24px;">Thanks for being one of our visitors!</p>
-  <!-- 使用同一个计数服务，但不同的样式参数 -->
-  <img src="https://count.getloli.com/get/@:yml-blog?theme=moebooru&count=1987" style="height: 80px;" alt="Visitor Count"/>
+  
+  <p style="font-size: 24px;">You are visitor number:</p>
+  <!-- 使用两个图片：一个固定的1987和一个动态计数器 -->
+  <div style="display: inline-block; vertical-align: middle; font-size: 60px; font-weight: bold; color: #4CAF50;">1987</div>
+  <div style="display: inline-block; vertical-align: middle;">+</div>
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://profile-counter.glitch.me/yml-blog-counter/count.svg" alt="Additional Visitors" style="height: 60px;"/>
+  </div>
 </div>
 
 <!-- GitHub Snake Animation -->
