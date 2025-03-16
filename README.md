@@ -32,7 +32,7 @@
     </td>
     <td align="center">
       <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&hide=c&langs_count=7&theme=dark&hide_progress=true" src="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&hide=c&langs_count=7&theme=dark&hide_progress=true" align="center">
     </td>
   </tr>
 </table>
@@ -86,20 +86,19 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yml-blog&custom_title=YML's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true">
 
 <!-- 自定义 GitHub 贡献统计 -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=800&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&background=0D1117&border=0D1117&stroke=30363D&ring=30363D&fire=30363D&currStreakLabel=30363D&sideLabels=30363D&dates=30363D&excludeDaysLabel=30363D&total=102&currStreak=23&maxStreak=15" alt="GitHub Streak Stats"/>
-  </a>
-</p>
+<p></p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800&locale=en&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727" alt="GitHub Streak" />
+</a>
 
-<!-- 简洁的动态访客计数 -->
+<!-- 简洁的动态访客计数 - 使用正确的用户名参数 -->
 <div align="center">
   <h1 style="font-size: 36px; color: #4CAF50;">👁️ VISITOR COUNTS 👁️</h1>
   
   <p style="font-size: 24px;">You are visitor number:</p>
-  <!-- 只使用动态计数器 -->
+  <!-- 使用正确的用户名参数的动态计数器 -->
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://profile-counter.glitch.me/yml-blog-counter/count.svg" alt="Visitor Count" style="height: 80px;"/>
+    <img src="https://profile-counter.glitch.me/yml-blog/count.svg" alt="Visitor Count" style="height: 80px;"/>
   </div>
 </div>
 
