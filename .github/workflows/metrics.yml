@@ -2,7 +2,7 @@ name: Metrics and Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天午夜运行一次
+    - cron: "0 * * * *"  # 每天午夜运行一次
   workflow_dispatch:
   push:
     branches:
