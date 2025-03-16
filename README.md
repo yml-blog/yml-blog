@@ -91,9 +91,7 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 
 <!-- 访客计数器 - 从1987开始并增大字体 -->
 <p align="center">
-  <a href="https://profile-counter.glitch.me/yml-blog/count.svg">
-    <img src="https://profile-counter.glitch.me/{yml-blog}/count.svg?start=1987" alt="Visitor Count" style="height: 40px; font-size: 22px;"/>
-  </a>
+  <img src="https://count.getloli.com/get/@:yml-blog?theme=moebooru&count=1987" style="height: 50px;" alt="Visitor Count"/>
 </p>
 
 <!-- GitHub Snake Animation -->
