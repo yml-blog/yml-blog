@@ -85,9 +85,12 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 <p></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yml-blog&custom_title=YML's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true">
 
-<!-- GitHub Streak Stats -->
-<p></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800" alt="GitHub Streak" /></a>
+<!-- 自定义 GitHub 贡献统计 -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=800&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&background=0D1117&border=0D1117&stroke=30363D&ring=30363D&fire=30363D&currStreakLabel=30363D&sideLabels=30363D&dates=30363D&excludeDaysLabel=30363D&total=102&currStreak=23&maxStreak=15" alt="GitHub Streak Stats"/>
+  </a>
+</p>
 
 <!-- 访客计数器 - 自定义显示 -->
 <p align="center">
