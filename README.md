@@ -89,9 +89,11 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800" alt="GitHub Streak" /></a>
 
-<!-- 访客计数器替代方案 - 从987开始 -->
+<!-- 访客计数器 - 从1987开始并增大字体 -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@yml-blog?theme=rule34&start=987" style="height: 40px;" alt="Visitor Count"/>
+  <a href="https://profile-counter.glitch.me/yml-blog/count.svg">
+    <img src="https://profile-counter.glitch.me/{yml-blog}/count.svg?start=1987" alt="Visitor Count" style="height: 40px; font-size: 22px;"/>
+  </a>
 </p>
 
 <!-- GitHub Snake Animation -->
