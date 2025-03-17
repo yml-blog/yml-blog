@@ -2,7 +2,11 @@ name: Metrics and Snake Animation
 
 on:
   schedule:
+<<<<<<< Updated upstream
     - cron: "0 * * * *"  # 每天午夜运行一次
+=======
+    - cron: "0 */24 * * *"  # 每24小时运行一次
+>>>>>>> Stashed changes
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
@@ -27,27 +31,13 @@ jobs:
           plugin_stargazers: yes
           plugin_traffic: yes
 
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Install canvas dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            build-essential \
-            libcairo2-dev \
-            libpango1.0-dev \
-            libjpeg-dev \
-            libgif-dev \
-            librsvg2-dev
-
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      # 生成贪吃蛇动画
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -56,7 +46,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      # 推送到输出分支
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
