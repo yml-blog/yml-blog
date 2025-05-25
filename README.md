@@ -56,7 +56,7 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
   </div>
 </div>
 
-<!-- GitHub Snake Animation -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake-dark.svg"/>
