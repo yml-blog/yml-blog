@@ -43,54 +43,7 @@
 I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems. 
 
 <!-- 技能展示 - 使用徽章 -->
-<h2>Technologies I've worked with 💻</h2>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <p></p>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <p></p>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <p></p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <p></p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="chatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
-## 🚀 Featured Projects
-
-### 🤖 AI/ML Projects
-- [**Deep Learning Framework**](https://github.com/yml-blog/project1) - A customizable deep learning framework
-- [**NLP Toolkit**](https://github.com/yml-blog/project2) - Natural language processing tools
-- [**Computer Vision Apps**](https://github.com/yml-blog/project3) - Real-time object detection
-
-### 🛠️ Development Tools
-- [**DevOps Pipeline**](https://github.com/yml-blog/project4) - Automated CI/CD pipeline
-- [**Code Generator**](https://github.com/yml-blog/project5) - AI-powered code generation
-
-<!-- 活动图表 - 使用更准确的参数 -->
-<p></p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yml-blog&custom_title=YML's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true">
-
-<!-- GitHub 贡献统计 - 使用更准确的参数 -->
-<p></p>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yml-blog&theme=github-dark&card_width=800&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</a>
 
 <!-- 简洁的动态访客计数 - 使用正确的用户名参数 -->
 <div align="center">
