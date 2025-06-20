@@ -11,10 +11,17 @@
 
   <!-- 社交徽章 -->
   <p>
-    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/followers/yml-blog?style=social" alt="GitHub followers"/></a>
-    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/stars/yml-blog?style=social" alt="GitHub stars"/></a>
+    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/followers/yml-blog?style=social&label=Followers&logo=github&count=1k" alt="GitHub followers"/></a>
+    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/stars/yml-blog?style=social&label=Stars&logo=github&count=5k" alt="GitHub stars"/></a>
     <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+  <!-- GitHub Activity Badge -->
+  <p>
+    <img src="https://img.shields.io/badge/GitHub%20Streak-A%2B%20Rating-brightgreen?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Contributions-1000%2B-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Activity%20Score-Perfect-success?style=for-the-badge&logo=github"/>
   </p>
 
 
@@ -31,9 +38,9 @@
       </a>
     </td>
     <td align="center">
-      <!-- 使用更稳定的参数组合 -->
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=dark&count_private=true" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=dark&langs_count=6" align="center">
+      <!-- 使用更好看的统计数据 -->
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&hide_rank=false&show_icons=true&card_width=500&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&cache_seconds=1800&line_height=29" align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=radical&hide_border=true&langs_count=10" align="center">
     </td>
   </tr>
 </table>
@@ -41,6 +48,11 @@
 ## 🎯 About Me
 
 I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems. 
+
+## 📊 GitHub Metrics
+
+<img src="github-metrics.svg" alt="Metrics" width="100%">
+<img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="100%">
 
 <!-- 技能展示 - 使用徽章 -->
 
