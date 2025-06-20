@@ -38,8 +38,6 @@
       </a>
     </td>
     <td align="center">
-      <!-- 使用更好看的统计数据 -->
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&hide_rank=false&show_icons=true&card_width=500&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&cache_seconds=1800&line_height=29" align="center">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=radical&hide_border=true&langs_count=10" align="center">
     </td>
   </tr>
@@ -51,7 +49,6 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 
 ## 📊 GitHub Metrics
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
 <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="100%">
 
 <!-- 技能展示 - 使用徽章 -->
