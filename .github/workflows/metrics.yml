@@ -26,6 +26,17 @@ jobs:
           plugin_languages: yes
           plugin_stargazers: yes
           plugin_traffic: yes
+          
+      # 单独生成isocalendar年度贡献图
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: yml-blog
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
   generate:
     runs-on: ubuntu-latest
