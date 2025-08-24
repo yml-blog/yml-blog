@@ -3,7 +3,7 @@
   <h1>👋 Welcome to YML's Coding Universe 🚀</h1>
   
   <!-- 动态打字效果 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+a+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+a+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 
   <!-- 引用 -->
   <h2>"𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚠𝚊𝚢 𝚝𝚘 𝚍𝚘 𝚐𝚛𝚎𝚊𝚝 𝚠𝚘𝚛𝚔 𝚒𝚜 𝚕𝚘𝚟𝚎 𝚠𝚑𝚊𝚝 𝚢𝚘𝚞 𝚍𝚘"</h2>
@@ -34,7 +34,7 @@
       <br/>
       <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh6cWN0MTR4YmsyNHBkNTBrMHUxcHUwMDhpamFxc20xZm92a2cwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=300&color=1A9928&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning;AI+Engineering;Always+learning+new+technologies!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=300&color=1A9928&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning;AI+Engineering;Always+learning+new+technologies!" alt="Typing SVG" />
       </a>
     </td>
     <td align="center">
@@ -61,7 +61,7 @@ I'm YML, a Data Scientist/Machine Learning Engineer passionate about leveraging 
   <p style="font-size: 24px;">You are visitor number:</p>
   <!-- 使用正确的用户名参数的动态计数器 -->
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://profile-counter.glitch.me/yml-blog/count.svg" alt="Visitor Count" style="height: 80px;"/>
+    <img src="https://profile-counter.deno.dev/:yml-blog:/count.svg?v=2" alt="Visitor Count" style="height: 80px;"/>
   </div>
 </div>
 
