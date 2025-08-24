@@ -61,7 +61,7 @@ I'm YML, a Data Scientist/Machine Learning Engineer passionate about leveraging 
   <p style="font-size: 24px;">You are visitor number:</p>
   <!-- 使用正确的用户名参数的动态计数器 -->
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://profile-counter.deno.dev/:yml-blog:/count.svg?v=2" alt="Visitor Count" style="height: 80px;"/>
+    <img src="https://profile-counter.deno.dev/yml-blog/count.svg?v=3" alt="Visitor Count" style="height:80px;" />
   </div>
 </div>
 
